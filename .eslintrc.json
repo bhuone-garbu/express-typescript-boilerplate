@@ -1,0 +1,7 @@
+{
+  "extends": "@bhuone/eslint-config/typescript-only",
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
